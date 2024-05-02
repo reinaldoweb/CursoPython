@@ -1,0 +1,316 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lista",
+				"lista2"
+			],
+			[
+				"m",
+				"meu_dicionario"
+			],
+			[
+				"minha",
+				"minha_lista2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"terminal view",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package controll",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/lambda.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/zip.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/reduce.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/filter.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/enumerate.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/list_comprehension.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/exercicio4.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/exercicio3.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/seq2.fast",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/seq.fasta",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/exercicio.txt",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/exercicio1.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/funcoes.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/meuArquivo.txt",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/manipularcaoArquivos.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/dicionario.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/programa5.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/programa3.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/for.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/meuprimeiroprograma.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/CursoPython/ola.py",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/projetos/CodeIgniterSigIat/sigiat_desenvolvimento/application/models/intranet/solicitacaoalmoxarifado_model.php",
+		"/var/www/saobento/wp-config.php",
+		"/var/www/Bahiapremium/wp-config.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/projetos/CodeIgniterSigIat/sigiat_desenvolvimento/application/controllers/intranet/solicitacaoalmoxarifado.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/projetos/CodeIgniterSigIat/sigiat_desenvolvimento/application/helpers/sigiat_helper.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/projetos/CodeIgniterSigIat/sigiat_desenvolvimento/application/controllers/intranet/gerenciamentoalmoxarifado.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/projetos/CodeIgniterSigIat/sigiat_desenvolvimento/application/models/intranet/gerenciamentoalmoxarifado_model.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba3/home/reinaldo/projetos/CodeIgniterSigIat/sigiat_desenvolvimento/db_data/sigiat_codeigniter/auditorias_planos_orcamentarios.frm",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba2/home/reinaldo/projetos/CodeIgniterSigIat/sigiat_desenvolvimento/application/models/intranet/gerenciamentoalmoxarifado_model.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba2/home/reinaldo/projetos/CodeIgniterSigIat/sigiat_desenvolvimento/application/models/intranet/solicitacaoalmoxarifado_model.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba2/home/reinaldo/projetos/CodeIgniterSigIat/sigiat_desenvolvimento/application/controllers/intranet/gerenciamentoalmoxarifado.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba2/home/reinaldo/projetos/CodeIgniterSigIat/sigiat_desenvolvimento/application/controllers/intranet/solicitacaoalmoxarifado.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba1/home/reinaldo/projetos/CodeIgniterSigIat/sigiat_desenvolvimento/application/models/intranet/gerenciamentoalmoxarifado_model.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba1/home/reinaldo/projetos/CodeIgniterSigIat/sigiat_desenvolvimento/application/controllers/intranet/gerenciamentoalmoxarifado.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba1/home/reinaldo/projetos/CodeIgniterSigIat/sigiat_desenvolvimento/application/views/intranet/gerenciamentoalmoxarifado/gerenciamentoalmoxarifado_view.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba/home/reinaldo/projetos/CodeIgniterSigIat/sigiat_desenvolvimento/application/config/database.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba/home/reinaldo/projetos/CodeIgniterSigIat/docker-compose.yml",
+		"/var/www/sigiat_desenvolvimento/docker-compose.yml",
+		"/var/www/sigiat_desenvolvimento/Dockerfile",
+		"/home/r1web/Documentos/sigiat_desenvolvimento/docker-compose.yml",
+		"/var/www/sigiat_desenvolvimento/application/config/database.php",
+		"/var/www/sigiat_desenvolvimento/application/.htaccess",
+		"/var/www/sigiat_desenvolvimento/application/models/intranet/solicitacaoalmoxarifado_model.php",
+		"/var/www/sigiat_desenvolvimento/application/libraries/TCPDF_SigIAT.php",
+		"/var/www/sigiat_desenvolvimento/application/controllers/intranet/solicitacaoalmoxarifado.php",
+		"/var/www/sigiat_desenvolvimento/application/views/intranet/relatorio/functionsRelatorioSapeAlmoxarifado.php",
+		"/var/www/sigiat_desenvolvimento/application/controllers/intranet/relatorio_quant_prof_por_disciplina_escola.php",
+		"/var/www/sigiat_desenvolvimento/application/helpers/sigiat_helper.php",
+		"/var/www/sigiat_desenvolvimento/application/models/intranet/relatorio_model.php",
+		"/var/www/sigiat_desenvolvimento/application/views/intranet/solicitacaoalmoxarifado/solicitacaoalmoxarifado_view.php",
+		"/home/r1web/Área de Trabalho/Meus arquivos/sigiat_desenvolvimento/application/models/intranet/solicitacaocompra_model.php",
+		"/home/r1web/Área de Trabalho/Meus arquivos/sigiat_desenvolvimento/application/controllers/intranet/solicitacaocompra.php",
+		"/home/r1web/Área de Trabalho/Meus arquivos/sigiat_desenvolvimento/application/controllers/intranet/solicitacaoalmoxarifado.php",
+		"/home/r1web/Área de Trabalho/Meus arquivos/sigiat_desenvolvimento/application/views/intranet/relatorio/relatoriopta_view.php",
+		"/home/r1web/Área de Trabalho/Meus arquivos/sigiat_desenvolvimento/application/models/intranet/relatorio_model.php",
+		"/home/r1web/Área de Trabalho/Meus arquivos/sigiat_desenvolvimento/application/models/intranet/solicitacaoalmoxarifado_model.php",
+		"/home/r1web/Área de Trabalho/sigiat_desenvolvimento/application/views/intranet/solicitacaocompra/solicitacaocompra_view.php",
+		"/home/r1web/Área de Trabalho/sigiat_desenvolvimento/application/models/intranet/materialalmoxarifado_model.php",
+		"/home/r1web/Área de Trabalho/sigiat_desenvolvimento/application/views/intranet/solicitacaocompra/functions.php",
+		"/home/r1web/Área de Trabalho/sigiat_desenvolvimento/application/models/intranet/solicitacaocompra_model.php",
+		"/home/r1web/Área de Trabalho/sigiat_desenvolvimento/application/models/intranet/solicitacaoalmoxarifado_model.php",
+		"/home/r1web/Área de Trabalho/sigiat_desenvolvimento/application/controllers/intranet/materialalmoxarifado.php",
+		"/home/r1web/Área de Trabalho/sigiat_desenvolvimento/application/controllers/intranet/solicitacaoalmoxarifado.php",
+		"/home/r1web/Área de Trabalho/sigiat_desenvolvimento/application/views/intranet/solicitacaoalmoxarifado/solicitacaoalmoxarifado_view.php",
+		"/home/r1web/Área de Trabalho/sigiat_desenvolvimento/application/views/intranet/materialalmoxarifado/functions.php",
+		"/home/r1web/Documentos/sigiat_desenvolvimento/application/controllers/intranet/solicitacaoalmoxarifado.php",
+		"/var/www/codeIgniter/application/views/contato_message.php",
+		"/var/www/codeIgniter/application/controllers/Contato.php",
+		"/media/r1web/Contato.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba/home/reinaldo/Treinamento/curso-laravel7/app_super_gestao/resources/views/app/fornecedor/adicionar.blade.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba/home/reinaldo/Treinamento/curso-laravel7/app_super_gestao/routes/channels.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba/home/reinaldo/Treinamento/curso-laravel7/app_super_gestao/routes/console.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba/home/reinaldo/Treinamento/curso-laravel7/app_super_gestao/routes/web.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba/home/reinaldo/Treinamento/curso-laravel7/app_super_gestao/app/Http/Controllers/FornecedorController.php",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba/home/reinaldo/Treinamento/mmorpg_got/app/controllers/jogo.js",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba/home/reinaldo/Treinamento/mmorpg_got/app/views/jogo.ejs",
+		"/home/r1web/Downloads/arquivos_da_aula/Incluindo comentários em postagens - parte 5/cliente/app/views/home/padrao.ejs",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba/home/reinaldo/Treinamento/mmorpg_got/app/views/cadastro.ejs",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba/home/reinaldo/Treinamento/mmorpg_got/app/controllers/cadastro.js",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba/home/reinaldo/Treinamento/mmorpg_got/app/views/index.ejs",
+		"/media/r1web/934f06ba-a78b-4086-a870-181ff4a02cba/home/reinaldo/Treinamento/mmorpg_got/app/controllers/index.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dicionario.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"solicitacaoAlmoxa",
+				"application/models/intranet/solicitacaoalmoxarifado_model.php"
+			],
+			[
+				"solicitacaoA",
+				"application/models/intranet/solicitacaoalmoxarifado_model.php"
+			],
+			[
+				"solicitacao",
+				"application/controllers/intranet/solicitacaoalmoxarifado.php"
+			],
+			[
+				"",
+				"application/models/intranet/gerenciamentoalmoxarifado_model.php"
+			],
+			[
+				"solicita",
+				"application/controllers/intranet/solicitacaoalmoxarifado.php"
+			],
+			[
+				"sigiat_hel",
+				"application/helpers/sigiat_helper.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
